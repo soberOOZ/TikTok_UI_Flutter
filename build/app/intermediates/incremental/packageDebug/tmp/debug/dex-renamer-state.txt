@@ -1,0 +1,4 @@
+#Tue Jun 18 11:06:13 IST 2019
+base.0=C\:\\Pers\\OOZ\\Filled Stacks\\flutter-tutorials\\001-tik_tok_ui\\phase1\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
